@@ -33,14 +33,14 @@ class SeasonChart extends React.Component {
                     },
                     {
                         label: "Fall",
-                        data: [null,null,null,null,null,null,null,null,9,10,11,12],
+                        data: [null,null,null,null,null,null,null,null,9,10,11],
                         fill: false,
                         borderColor: "Orange",
                         backgroundColor:"Orange"
                     },
                     {
                         label: "Winter",
-                        data: [1,2,3,null,null,null,null,null,null,null,null,null,null],
+                        data: [1,2,3,null,null,null,null,null,null,null,11,12],
                         fill: false,
                         borderColor: "SteelBlue",
                         backgroundColor:"SteelBlue"
