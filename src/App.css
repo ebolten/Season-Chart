@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+#data-box {
+  /* display:flex; */
+  z-index:2;
+  color:Black;
+  position:relative;
+  right:-20%;
+  width:900px;
+  height:700px;
+  margin:50px;
+  padding:40px;
+  /* margin:'auto' */
+}
+
+
