@@ -28,8 +28,8 @@ class SeasonChart extends React.Component {
                         label: "Summer",
                         data: [null,null,null,null,null,6,7,8,9,null,null,null],
                         fill: false,
-                        borderColor: "Yellow",
-                        backgroundColor:"Yellow"
+                        borderColor: "Gold",
+                        backgroundColor:"Gold"
                     },
                     {
                         label: "Fall",
