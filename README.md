@@ -2,7 +2,6 @@ This project is created with ChartJS and shows a chart of the seasons, the Y-axi
 
 ![Chart Image Couldn't Load. . .](SeasonsIMG.png)
 
-
 ----------------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
