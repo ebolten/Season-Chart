@@ -1,6 +1,6 @@
 
 
-![Chart Image Couldn't Load. . .](SeasonsChartIMG.PNG)
+![Chart Image Couldn't Load. . .](SeasonsChartIMG.png)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
