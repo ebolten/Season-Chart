@@ -1,6 +1,6 @@
 This project is created with ChartJS and shows a chart of the seasons, the Y-axis represents the months in numbers and the X-axis represents the months in words.
 
-![Chart Image Couldn't Load. . .](SeasonsChartIMG.png)
+![Chart Image Couldn't Load. . .](SeasonsIMG.png)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
